@@ -1,5 +1,5 @@
 # ZURI-TASK--Frontend-Algorithms-Task
-his task is to give you a feel of basic JavaScript algorithms.
+This task is to give you a feel of basic JavaScript algorithms.
 
 1. Write a function named "convertFahrToCelsius" that takes a single parameter and converts it to celsius.
 
